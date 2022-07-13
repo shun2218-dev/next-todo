@@ -14,7 +14,12 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/material": "^5.9.0",
+    "@reduxjs/toolkit": "^1.8.3",
     "eslint": "8.19.0",
-    "eslint-config-next": "12.2.2"
+    "eslint-config-next": "12.2.2",
+    "react-redux": "^8.0.2"
   }
 }
